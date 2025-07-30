@@ -1,0 +1,21 @@
+# Go workspace
+/bin/
+/build/
+/dist/
+*.exe
+*.test
+*.out
+*.log
+*.tmp
+*.swp
+*.DS_Store
+.env
+coverage*
+# Go modules
+/go.sum
+/go.mod
+# IDE
+.vscode/
+.idea/
+# Dependency cache
+vendor/
