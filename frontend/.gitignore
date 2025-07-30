@@ -1,0 +1,58 @@
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+
+*.lock
+*.log
+*.tmp
+*.swp
+.DS_Store
+.env
+# IDE
+.vscode/
+.idea/
+*.iml
+# Android
+android/app/debug/
+android/app/release/
+android/.gradle/
+android/local.properties
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/
+ios/Runner.xcworkspace/
+# Web
+web/.dart_tool/
+web/build/
+# Misc
+test/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+.package-config
+.metadata
+.android/
+.ios/
+.web/
+.windows/
+.macos/
+.linux/
+.idea/
+.vscode/
+*.ipr
+*.iws
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
+*.rej
+*.class
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
